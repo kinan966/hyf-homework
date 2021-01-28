@@ -1,9 +1,8 @@
 
-var dogYearOfBirth = 2017; 
+const dogYearOfBirth = 2017; 
 var dogYearFuture = 2027;
 var dogYear;
 var shouldShowResultInDogYears;
-Boolean (shouldShowResultInDogYears);
 
 var dogYear = (dogYearFuture - dogYearOfBirth);
 var shouldShowResultInDogYears = (dogYearFuture - dogYearOfBirth) * 7;
